@@ -8,8 +8,8 @@ I am an aspiring Python Developer and Software Engineer.
 
 *   🌍  I'm based in Leeds, West Yorkshire, United Kingdom
 *   ✉️  You can contact me at [mawgs05@gmail.com](mailto:mawgs05@gmail.com)
-*   🚀  I'm currently working on [Software Engineer Bootcamp projects](http://www.hyperiondev.com)
-*   🧠  I'm learning Python and Django
+*   🚀  I'm currently working on Python Data Engineer projects
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  It's not a bug, it's a feature!
 <p align="left">
